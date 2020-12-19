@@ -1,0 +1,73 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+Cabello%
+}{%
+Cabello%
+}{%
+{\protect \APACyear {2014}}%
+}]{%
+Cabello2014}
+\APACinsertmetastar {%
+Cabello2014}%
+\begin{APACrefauthors}%
+Cabello, A\BPBI L\BPBI C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2014}.
+\newblock
+\APACrefbtitle {Implantacion de aplicaciones web en entornos internet, intranet
+  y extranet} {Implantacion de aplicaciones web en entornos internet, intranet
+  y extranet}\ (I.~Editorial, \BED{}).
+\newblock
+\APACaddressPublisher{}{IC Editorial}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Institute%
+}{%
+Institute%
+}{%
+{\protect \APACyear {2009}}%
+}]{%
+Institute2009}
+\APACinsertmetastar {%
+Institute2009}%
+\begin{APACrefauthors}%
+Institute, I.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2009}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {ISO - Online Browsing Platform} {Iso - online browsing
+  platform}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{ISO/Guide}{}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+SCP%
+}{%
+SCP%
+}{%
+{\protect \APACyear {2018}}%
+}]{%
+Grupo2018}
+\APACinsertmetastar {%
+Grupo2018}%
+\begin{APACrefauthors}%
+SCP, G.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2018}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {ISO 31000:2018 – Proceso para la gestión de riesgos}
+  {Iso 31000:2018 – proceso para la gestión de riesgos}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{SCP Magazine}{}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}

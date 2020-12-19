@@ -1,0 +1,25 @@
+% Encoding: UTF-8
+
+@Article{Institute2009,
+  author  = {ISO Institute},
+  title   = {ISO - Online Browsing Platform},
+  journal = {ISO/Guide},
+  year    = {2009},
+}
+
+@Article{Grupo2018,
+  author  = {Grupo SCP},
+  title   = {ISO 31000:2018 – Proceso para la gestión de riesgos},
+  journal = {SCP Magazine},
+  year    = {2018},
+}
+
+@Book{Cabello2014,
+  title     = {Implantacion de aplicaciones web en entornos internet, intranet y extranet},
+  publisher = {IC Editorial},
+  year      = {2014},
+  author    = {Antonio Luis Cardador Cabello},
+  editor    = {IC Editorial},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}
