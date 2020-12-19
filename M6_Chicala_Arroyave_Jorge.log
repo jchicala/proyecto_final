@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=latex 2020.11.6)  19 DEC 2020 09:54
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=latex 2020.11.6)  19 DEC 2020 10:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -92,41 +92,75 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 8.
 
-Underfull \hbox (badness 1668) in paragraph at lines 31--49
+Underfull \hbox (badness 1668) in paragraph at lines 35--52
 \OT1/cmr/m/n/10.95 ci^^Son, pe-ro ham-brien-tos de co-no-ci-
  []
 
 
-Underfull \hbox (badness 2426) in paragraph at lines 31--49
+Underfull \hbox (badness 2426) in paragraph at lines 35--52
 \OT1/cmr/m/n/10.95 Cualquier sis-te-ma in-form^^Sati-co que
  []
 
 
-Underfull \hbox (badness 5091) in paragraph at lines 31--49
+Underfull \hbox (badness 5091) in paragraph at lines 35--52
 \OT1/cmr/m/n/10.95 in-form^^Sati-cos, es por es-te mo-ti-vo
  []
 
 
-Underfull \hbox (badness 2027) in paragraph at lines 31--49
+Underfull \hbox (badness 2027) in paragraph at lines 35--52
 \OT1/cmr/m/n/10.95 que, el an^^Sali-sis de ries-go, ba-sa-do
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 31--49
+Underfull \hbox (badness 10000) in paragraph at lines 35--52
 
  []
 
 
-LaTeX Warning: Citation `Monte2015' on page 1 undefined on input line 51.
+Underfull \hbox (badness 6961) in paragraph at lines 57--63
+\OT1/cmr/m/n/10.95 La de-fi-ni-ci^^Son am-plia-men-te usa-da
+ []
 
 
-LaTeX Warning: Citation `OccupyTheWeb2019' on page 1 undefined on input line 52
+Underfull \hbox (badness 1043) in paragraph at lines 57--63
+\OT1/cmr/m/n/10.95 y pro-mul-ga-da por la Or-ga-ni-za-ci^^Son
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 57--63
+\OT1/cmr/m/n/10.95 In-ter-na-cio-nal de Nor-ma-li-za-ci^^Son
+ []
+
+
+Underfull \hbox (badness 1325) in paragraph at lines 57--63
+\OT1/cmr/m/n/10.95 co-mo \La po-si-bi-li-dad de que una
+ []
+
+
+Underfull \hbox (badness 5490) in paragraph at lines 57--63
+\OT1/cmr/m/n/10.95 ame-na-za de-ter-mi-na-da ex-plo-te las
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 57--63
+
+ []
+
+
+LaTeX Warning: Citation `Monte2015' on page 1 undefined on input line 64.
+
+
+LaTeX Warning: Citation `OccupyTheWeb2019' on page 1 undefined on input line 65
 .
 
 No file M6_Chicala_Arroyave_Jorge.bbl.
 [1
 
-] [2] (./M6_Chicala_Arroyave_Jorge.aux
+]
+Overfull \vbox (65.30002pt too high) has occurred while \output is active []
+
+
+[2] (./M6_Chicala_Arroyave_Jorge.aux
 LaTeX Info: Redefining \. on input line 11.
 LaTeX Info: Redefining \% on input line 11.
 )
@@ -143,4 +177,4 @@ Here is how much of TeX's memory you used:
  40 hyphenation exceptions out of 8191
  29i,6n,35p,208b,361s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on M6_Chicala_Arroyave_Jorge.dvi (2 pages, 3432 bytes).
+Output written on M6_Chicala_Arroyave_Jorge.dvi (2 pages, 3960 bytes).
