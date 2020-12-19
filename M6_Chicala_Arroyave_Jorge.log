@@ -1,0 +1,180 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=latex 2020.11.6)  18 DEC 2020 19:23
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**M6_Chicala_Arroyave_Jorge.tex
+(./M6_Chicala_Arroyave_Jorge.tex
+LaTeX2e <2020-02-02> patch level 2
+L3 programming layer <2020-02-14>
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count167
+\c@section=\count168
+\c@subsection=\count169
+\c@subsubsection=\count170
+\c@paragraph=\count171
+\c@subparagraph=\count172
+\c@figure=\count173
+\c@table=\count174
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2020/02/14 3.40 The Babel package
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/switch.def
+File: switch.def 2020/02/14 3.40 Babel switching mechanism
+)
+(/usr/share/texlive/texmf-dist/tex/generic/babel-spanish/spanish.ldf
+Language: spanish.ldf 2016/03/03 v5.0p Spanish support from the babel system
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2020/02/14 3.40 Babel common definitions
+\babel@savecnt=\count175
+\U@D=\dimen135
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count176
+)
+\es@quottoks=\toks14
+\es@quotdepth=\count177
+Package babel Info: Making " an active character on input line 561.
+Package babel Info: Making . an active character on input line 662.
+Package babel Info: Making < an active character on input line 707.
+Package babel Info: Making > an active character on input line 707.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-dvips.def
+File: l3backend-dvips.def 2020-02-03 L3 backend support: dvips
+\l__pdf_internal_box=\box45
+\g__pdf_backend_object_int=\count178
+\l__pdf_backend_content_box=\box46
+\l__pdf_backend_model_box=\box47
+\g__pdf_backend_annotation_int=\count179
+\g__pdf_backend_link_int=\count180
+\g__pdf_backend_link_sf_int=\count181
+)
+(./M6_Chicala_Arroyave_Jorge.aux
+LaTeX Info: Redefining \. on input line 11.
+LaTeX Info: Redefining \% on input line 11.
+)
+\openout1 = `M6_Chicala_Arroyave_Jorge.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Info: Redefining \. on input line 4.
+LaTeX Info: Redefining \% on input line 4.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 8.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 8.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 8.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.12 https://github.com/jchicala/proyecto_
+                                          final \\
+? 
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 12.
+! Missing $ inserted.
+<inserted text> 
+                $
+l.14 \begin{center}
+                   
+? 
+! Missing \endgroup inserted.
+<inserted text> 
+                \endgroup 
+l.14 \begin{center}
+                   
+? 
+! Missing \endgroup inserted.
+<inserted text> 
+                \endgroup 
+l.14 \begin{center}
+                   
+? 
+
+! LaTeX Error: \begin{document} ended by \end{center}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.16 \end{center}
+                 
+? 
+! Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.16 \end{center}
+                 
+? 
+
+! LaTeX Error: \begin{document} ended by \end{bf}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17 \end{bf}
+             
+? 
+! Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.17 \end{bf}
+             
+? 
+
+LaTeX Warning: Citation `Monte2015' on page 1 undefined on input line 31.
+
+
+LaTeX Warning: Citation `OccupyTheWeb2019' on page 1 undefined on input line 32
+.
+
+No file M6_Chicala_Arroyave_Jorge.bbl.
+[1
+
+] (./M6_Chicala_Arroyave_Jorge.aux
+LaTeX Info: Redefining \. on input line 11.
+LaTeX Info: Redefining \% on input line 11.
+)
+
+LaTeX Warning: There were undefined references.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 1422 strings out of 483122
+ 20840 string characters out of 5964380
+ 259639 words of memory out of 5000000
+ 16495 multiletter control sequences out of 15000+600000
+ 537218 words of font info for 40 fonts, out of 8000000 for 9000
+ 40 hyphenation exceptions out of 8191
+ 29i,6n,35p,208b,361s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on M6_Chicala_Arroyave_Jorge.dvi (1 page, 1684 bytes).
