@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=latex 2020.11.6)  18 DEC 2020 19:23
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=latex 2020.11.6)  19 DEC 2020 09:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -92,75 +92,41 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 8.
 
-! Missing $ inserted.
-<inserted text> 
-                $
-l.12 https://github.com/jchicala/proyecto_
-                                          final \\
-? 
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 12.
-! Missing $ inserted.
-<inserted text> 
-                $
-l.14 \begin{center}
-                   
-? 
-! Missing \endgroup inserted.
-<inserted text> 
-                \endgroup 
-l.14 \begin{center}
-                   
-? 
-! Missing \endgroup inserted.
-<inserted text> 
-                \endgroup 
-l.14 \begin{center}
-                   
-? 
-
-! LaTeX Error: \begin{document} ended by \end{center}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.16 \end{center}
-                 
-? 
-! Extra \endgroup.
-<recently read> \endgroup 
-                          
-l.16 \end{center}
-                 
-? 
-
-! LaTeX Error: \begin{document} ended by \end{bf}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.17 \end{bf}
-             
-? 
-! Extra \endgroup.
-<recently read> \endgroup 
-                          
-l.17 \end{bf}
-             
-? 
-
-LaTeX Warning: Citation `Monte2015' on page 1 undefined on input line 31.
+Underfull \hbox (badness 1668) in paragraph at lines 31--49
+\OT1/cmr/m/n/10.95 ci^^Son, pe-ro ham-brien-tos de co-no-ci-
+ []
 
 
-LaTeX Warning: Citation `OccupyTheWeb2019' on page 1 undefined on input line 32
+Underfull \hbox (badness 2426) in paragraph at lines 31--49
+\OT1/cmr/m/n/10.95 Cualquier sis-te-ma in-form^^Sati-co que
+ []
+
+
+Underfull \hbox (badness 5091) in paragraph at lines 31--49
+\OT1/cmr/m/n/10.95 in-form^^Sati-cos, es por es-te mo-ti-vo
+ []
+
+
+Underfull \hbox (badness 2027) in paragraph at lines 31--49
+\OT1/cmr/m/n/10.95 que, el an^^Sali-sis de ries-go, ba-sa-do
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--49
+
+ []
+
+
+LaTeX Warning: Citation `Monte2015' on page 1 undefined on input line 51.
+
+
+LaTeX Warning: Citation `OccupyTheWeb2019' on page 1 undefined on input line 52
 .
 
 No file M6_Chicala_Arroyave_Jorge.bbl.
 [1
 
-] (./M6_Chicala_Arroyave_Jorge.aux
+] [2] (./M6_Chicala_Arroyave_Jorge.aux
 LaTeX Info: Redefining \. on input line 11.
 LaTeX Info: Redefining \% on input line 11.
 )
@@ -169,12 +135,12 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 1422 strings out of 483122
- 20840 string characters out of 5964380
- 259639 words of memory out of 5000000
- 16495 multiletter control sequences out of 15000+600000
- 537218 words of font info for 40 fonts, out of 8000000 for 9000
+ 1416 strings out of 483122
+ 20766 string characters out of 5964380
+ 263639 words of memory out of 5000000
+ 16491 multiletter control sequences out of 15000+600000
+ 535981 words of font info for 36 fonts, out of 8000000 for 9000
  40 hyphenation exceptions out of 8191
  29i,6n,35p,208b,361s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on M6_Chicala_Arroyave_Jorge.dvi (1 page, 1684 bytes).
+Output written on M6_Chicala_Arroyave_Jorge.dvi (2 pages, 3432 bytes).
