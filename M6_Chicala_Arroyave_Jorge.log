@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.11.6)  19 DEC 2020 14:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.11.6)  19 DEC 2020 19:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -77,10 +77,18 @@ File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 \Gin@req@height=\dimen136
 \Gin@req@width=\dimen137
 )
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count178
+\float@exts=\toks18
+\float@box=\box45
+\@float@everytoks=\toks19
+\@floatcapt=\box46
+)
 (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
 File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
-\l__kernel_color_stack_int=\count178
-\l__pdf_internal_box=\box45
+\l__kernel_color_stack_int=\count179
+\l__pdf_internal_box=\box47
 )
 (./M6_Chicala_Arroyave_Jorge.aux
 LaTeX Info: Redefining \. on input line 7.
@@ -88,95 +96,61 @@ LaTeX Info: Redefining \% on input line 7.
 )
 \openout1 = `M6_Chicala_Arroyave_Jorge.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Info: Redefining \. on input line 6.
-LaTeX Info: Redefining \% on input line 6.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Info: Redefining \. on input line 7.
+LaTeX Info: Redefining \% on input line 7.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count179
+\scratchcounter=\count180
 \scratchdimen=\dimen138
-\scratchbox=\box46
-\nofMPsegments=\count180
-\nofMParguments=\count181
-\everyMPshowfont=\toks18
-\MPscratchCnt=\count182
+\scratchbox=\box48
+\nofMPsegments=\count181
+\nofMParguments=\count182
+\everyMPshowfont=\toks20
+\MPscratchCnt=\count183
 \MPscratchDim=\dimen139
-\MPnumerator=\count183
-\makeMPintoPDFobject=\count184
-\everyMPtoPDFconversion=\toks19
+\MPnumerator=\count184
+\makeMPintoPDFobject=\count185
+\everyMPtoPDFconversion=\toks21
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
-
-(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
-Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
-)
-(/usr/share/texlive/texmf-dist/tex/latex/grfext/grfext.sty
-Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
-
-(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
-Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
-))
-(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
-Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
-
-(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
-Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
-)
-(/usr/share/texlive/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
-Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
-))
-(/usr/share/texlive/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty
-Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO
-)
-
-(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
-Package: iftex 2019/11/07 v1.0c TeX engine tests
-)
-Package pdftexcmds Info: \pdf@primitive is available.
-Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode found.
-)
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
-Package grfext Info: Graphics extension search list:
-(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
-G,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 504.
 
 (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 10.
+(Font)              <14.4> on input line 11.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 10.
+(Font)              <7> on input line 11.
 
-Underfull \hbox (badness 10000) in paragraph at lines 20--33
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 20--33
+Underfull \hbox (badness 10000) in paragraph at lines 21--34
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 37--54
+Underfull \hbox (badness 10000) in paragraph at lines 21--34
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--55
 
  []
 
@@ -186,116 +160,122 @@ Underfull \hbox (badness 10000) in paragraph at lines 37--54
 ! Undefined control sequence.
 \b@Institute2009 ...@activesfalse \citeauthoryear 
                                                   {Institute}{Institute}{{\A...
-l.65 ...a la organización” \cite{Institute2009}
+l.66 ...a la organización” \cite{Institute2009}
                                                   .
 ? 
 ! Undefined control sequence.
 \b@Institute2009 ...titute}{Institute}{{\APACyear 
                                                   {2009}}}
-l.65 ...a la organización” \cite{Institute2009}
+l.66 ...a la organización” \cite{Institute2009}
                                                   .
 ? 
+<img/Manejo_Riesgo_ISO-31000.png, id=9, 853.1875pt x 531.9875pt>
+File: img/Manejo_Riesgo_ISO-31000.png Graphic file (type png)
+<use img/Manejo_Riesgo_ISO-31000.png>
+Package pdftex.def Info: img/Manejo_Riesgo_ISO-31000.png  used on input line 69
+.
+(pdftex.def)             Requested size: 142.26378pt x 88.69954pt.
 ! Undefined control sequence.
 \b@Grupo2018 ...safe@activesfalse \citeauthoryear 
                                                   {SCP}{SCP}{{\APACyear {201...
-l.67 Fig1. \cite{Grupo2018}
+l.73 Fig1. \cite{Grupo2018}
                            .
 ? 
 ! Undefined control sequence.
 \b@Grupo2018 ...eauthoryear {SCP}{SCP}{{\APACyear 
                                                   {2018}}}
-l.67 Fig1. \cite{Grupo2018}
+l.73 Fig1. \cite{Grupo2018}
                            .
 ? 
 
-Underfull \hbox (badness 10000) in paragraph at lines 59--68
+Underfull \hbox (badness 10000) in paragraph at lines 60--74
 
  []
 
-[2]
+[2 <./img/Manejo_Riesgo_ISO-31000.png>] [3]
 ! Undefined control sequence.
 \b@Cabello2014 ...fe@activesfalse \citeauthoryear 
                                                   {Cabello}{Cabello}{{\APACy...
-l.97 ...ro del grupo autorizado \cite{Cabello2014}
+l.103 ...o del grupo autorizado \cite{Cabello2014}
                                                   .
 ? 
 ! Undefined control sequence.
 \b@Cabello2014 ...r {Cabello}{Cabello}{{\APACyear 
                                                   {2014}}}
-l.97 ...ro del grupo autorizado \cite{Cabello2014}
+l.103 ...o del grupo autorizado \cite{Cabello2014}
                                                   .
 ? 
 
-Underfull \hbox (badness 10000) in paragraph at lines 89--104
+Underfull \hbox (badness 10000) in paragraph at lines 95--110
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 89--104
+Underfull \hbox (badness 10000) in paragraph at lines 95--110
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 89--104
+Underfull \hbox (badness 10000) in paragraph at lines 95--110
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 105--108
+Underfull \hbox (badness 10000) in paragraph at lines 111--114
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 108--111
+Underfull \hbox (badness 10000) in paragraph at lines 114--117
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 111--115
+Underfull \hbox (badness 10000) in paragraph at lines 117--121
 
  []
 
-[3]
+[4]
 ! Undefined control sequence.
 \b@Cabello2014 ...fe@activesfalse \citeauthoryear 
                                                   {Cabello}{Cabello}{{\APACy...
-l.125 ...s procesos del negocio \cite{Cabello2014}
+l.131 ...s procesos del negocio \cite{Cabello2014}
                                                   .
 ? 
 ! Undefined control sequence.
 \b@Cabello2014 ...r {Cabello}{Cabello}{{\APACyear 
                                                   {2014}}}
-l.125 ...s procesos del negocio \cite{Cabello2014}
+l.131 ...s procesos del negocio \cite{Cabello2014}
                                                   .
 ? 
 
-Underfull \hbox (badness 10000) in paragraph at lines 118--134
+Underfull \hbox (badness 10000) in paragraph at lines 124--140
 
  []
 
 
-Overfull \hbox (0.42233pt too wide) in paragraph at lines 118--134
+Overfull \hbox (0.42233pt too wide) in paragraph at lines 124--140
 \OT1/cmr/m/n/12 li-zar los usua-rios au-to-ri-za-dos de una em-pre-sa/organizac
 i^^Son/instituci^^Son/grupo
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 118--134
+Underfull \hbox (badness 10000) in paragraph at lines 124--140
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 118--134
+Underfull \hbox (badness 10000) in paragraph at lines 124--140
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 118--134
+Underfull \hbox (badness 10000) in paragraph at lines 124--140
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 140--142
+Underfull \hbox (badness 10000) in paragraph at lines 146--148
 
  []
 
@@ -504,26 +484,26 @@ l.71 \PrintBackRefs
 l.71 \PrintBackRefs{\CurrentBib
                                }
 ? 
-) [4] (./M6_Chicala_Arroyave_Jorge.aux
+) [5] (./M6_Chicala_Arroyave_Jorge.aux
 LaTeX Info: Redefining \. on input line 7.
 LaTeX Info: Redefining \% on input line 7.
 ) ) 
 Here is how much of TeX's memory you used:
- 2655 strings out of 483121
- 39249 string characters out of 5964354
- 282298 words of memory out of 5000000
- 17667 multiletter control sequences out of 15000+600000
+ 2246 strings out of 483121
+ 32174 string characters out of 5964354
+ 274660 words of memory out of 5000000
+ 17283 multiletter control sequences out of 15000+600000
  535098 words of font info for 33 fonts, out of 8000000 for 9000
  40 hyphenation exceptions out of 8191
- 34i,6n,35p,225b,361s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 30i,6n,35p,220b,361s stack positions out of 5000i,500n,10000p,200000b,80000s
  </home/jchicala/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1200
 .600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 ></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/
 share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on M6_Chicala_Arroyave_Jorge.pdf (4 pages, 50621 bytes).
+Output written on M6_Chicala_Arroyave_Jorge.pdf (5 pages, 124400 bytes).
 PDF statistics:
- 34 PDF objects out of 1000 (max. 8388607)
- 23 compressed objects within 1 object stream
+ 39 PDF objects out of 1000 (max. 8388607)
+ 25 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
