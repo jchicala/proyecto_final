@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.11.6)  19 DEC 2020 19:30
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.11.6)  19 DEC 2020 20:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -23,6 +23,15 @@ File: size12.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
 \belowcaptionskip=\skip48
 \bibindent=\dimen134
 )
+(/usr/share/texlive/texmf-dist/tex/latex/apacite/apacite.sty
+Package: apacite 2013/07/21 v6.03 APA citation
+\c@BibCnt=\count175
+\bibleftmargin=\skip49
+\bibindent=\skip50
+\bibparsep=\skip51
+\bibitemsep=\skip52
+\biblabelsep=\skip53
+)
 (/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
 Package: babel 2020/02/14 3.40 The Babel package
 
@@ -34,15 +43,15 @@ Language: spanish.ldf 2016/03/03 v5.0p Spanish support from the babel system
 
 (/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
 File: babel.def 2020/02/14 3.40 Babel common definitions
-\babel@savecnt=\count175
+\babel@savecnt=\count176
 \U@D=\dimen135
 
 (/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
 \bbl@readstream=\read2
-\bbl@dirlevel=\count176
+\bbl@dirlevel=\count177
 )
 \es@quottoks=\toks14
-\es@quotdepth=\count177
+\es@quotdepth=\count178
 Package babel Info: Making " an active character on input line 561.
 Package babel Info: Making . an active character on input line 662.
 Package babel Info: Making < an active character on input line 707.
@@ -79,7 +88,7 @@ File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 )
 (/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count178
+\c@float@type=\count179
 \float@exts=\toks18
 \float@box=\box45
 \@float@everytoks=\toks19
@@ -87,7 +96,7 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 )
 (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
 File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
-\l__kernel_color_stack_int=\count179
+\l__kernel_color_stack_int=\count180
 \l__pdf_internal_box=\box47
 )
 (./M6_Chicala_Arroyave_Jorge.aux
@@ -96,35 +105,42 @@ LaTeX Info: Redefining \% on input line 7.
 )
 \openout1 = `M6_Chicala_Arroyave_Jorge.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Info: Redefining \. on input line 7.
-LaTeX Info: Redefining \% on input line 7.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+\c@maskedRefs=\count181
+
+(/usr/share/texlive/texmf-dist/tex/latex/apacite/spanish.apc
+File: spanish.apc 2013/07/21 v6.03 apacite language file
+LaTeX Info: Redefining \BPBI on input line 138.
+LaTeX Info: Redefining \BHBI on input line 139.
+)
+LaTeX Info: Redefining \. on input line 8.
+LaTeX Info: Redefining \% on input line 8.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count180
+\scratchcounter=\count182
 \scratchdimen=\dimen138
 \scratchbox=\box48
-\nofMPsegments=\count181
-\nofMParguments=\count182
+\nofMPsegments=\count183
+\nofMParguments=\count184
 \everyMPshowfont=\toks20
-\MPscratchCnt=\count183
+\MPscratchCnt=\count185
 \MPscratchDim=\dimen139
-\MPnumerator=\count184
-\makeMPintoPDFobject=\count185
+\MPnumerator=\count186
+\makeMPintoPDFobject=\count187
 \everyMPtoPDFconversion=\toks21
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -136,16 +152,11 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 11.
+(Font)              <14.4> on input line 12.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 11.
+(Font)              <7> on input line 12.
 
-Underfull \hbox (badness 10000) in paragraph at lines 21--34
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 21--34
+Underfull \hbox (badness 10000) in paragraph at lines 22--34
 
  []
 
@@ -157,66 +168,29 @@ Underfull \hbox (badness 10000) in paragraph at lines 38--55
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-! Undefined control sequence.
-\b@Institute2009 ...@activesfalse \citeauthoryear 
-                                                  {Institute}{Institute}{{\A...
-l.66 ...a la organización” \cite{Institute2009}
-                                                  .
-? 
-! Undefined control sequence.
-\b@Institute2009 ...titute}{Institute}{{\APACyear 
-                                                  {2009}}}
-l.66 ...a la organización” \cite{Institute2009}
-                                                  .
-? 
 <img/Manejo_Riesgo_ISO-31000.png, id=9, 853.1875pt x 531.9875pt>
 File: img/Manejo_Riesgo_ISO-31000.png Graphic file (type png)
 <use img/Manejo_Riesgo_ISO-31000.png>
-Package pdftex.def Info: img/Manejo_Riesgo_ISO-31000.png  used on input line 69
+Package pdftex.def Info: img/Manejo_Riesgo_ISO-31000.png  used on input line 68
 .
-(pdftex.def)             Requested size: 142.26378pt x 88.69954pt.
-! Undefined control sequence.
-\b@Grupo2018 ...safe@activesfalse \citeauthoryear 
-                                                  {SCP}{SCP}{{\APACyear {201...
-l.73 Fig1. \cite{Grupo2018}
-                           .
-? 
-! Undefined control sequence.
-\b@Grupo2018 ...eauthoryear {SCP}{SCP}{{\APACyear 
-                                                  {2018}}}
-l.73 Fig1. \cite{Grupo2018}
-                           .
-? 
-
-Underfull \hbox (badness 10000) in paragraph at lines 60--74
-
- []
-
-[2 <./img/Manejo_Riesgo_ISO-31000.png>] [3]
-! Undefined control sequence.
-\b@Cabello2014 ...fe@activesfalse \citeauthoryear 
-                                                  {Cabello}{Cabello}{{\APACy...
-l.103 ...o del grupo autorizado \cite{Cabello2014}
-                                                  .
-? 
-! Undefined control sequence.
-\b@Cabello2014 ...r {Cabello}{Cabello}{{\APACyear 
-                                                  {2014}}}
-l.103 ...o del grupo autorizado \cite{Cabello2014}
-                                                  .
-? 
-
-Underfull \hbox (badness 10000) in paragraph at lines 95--110
+(pdftex.def)             Requested size: 284.52756pt x 177.41531pt.
+ [2 <./img/Manejo_Riesgo_ISO-31000.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 89--91
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 95--110
+Underfull \hbox (badness 10000) in paragraph at lines 93--107
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 95--110
+Underfull \hbox (badness 10000) in paragraph at lines 93--107
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 108--111
 
  []
 
@@ -226,284 +200,52 @@ Underfull \hbox (badness 10000) in paragraph at lines 111--114
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 114--117
+Underfull \hbox (badness 10000) in paragraph at lines 114--118
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 117--121
-
- []
-
-[4]
-! Undefined control sequence.
-\b@Cabello2014 ...fe@activesfalse \citeauthoryear 
-                                                  {Cabello}{Cabello}{{\APACy...
-l.131 ...s procesos del negocio \cite{Cabello2014}
-                                                  .
-? 
-! Undefined control sequence.
-\b@Cabello2014 ...r {Cabello}{Cabello}{{\APACyear 
-                                                  {2014}}}
-l.131 ...s procesos del negocio \cite{Cabello2014}
-                                                  .
-? 
-
-Underfull \hbox (badness 10000) in paragraph at lines 124--140
-
- []
-
-
-Overfull \hbox (0.42233pt too wide) in paragraph at lines 124--140
+Overfull \hbox (0.42233pt too wide) in paragraph at lines 120--134
 \OT1/cmr/m/n/12 li-zar los usua-rios au-to-ri-za-dos de una em-pre-sa/organizac
 i^^Son/instituci^^Son/grupo
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 124--140
+Underfull \hbox (badness 10000) in paragraph at lines 120--134
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 124--140
+Underfull \hbox (badness 10000) in paragraph at lines 120--134
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 124--140
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 146--148
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 140--142
 
  []
 
-(./M6_Chicala_Arroyave_Jorge.bbl
-! Undefined control sequence.
-<argument> \protect \citeauthoryear 
-                                    {Cabello}{Cabello}{{\protect \APACyear {...
-l.10 Cabello2014}
-                 
-? 
-! Undefined control sequence.
-<argument> ...bello}{Cabello}{{\protect \APACyear 
-                                                  {2014}}}
-l.10 Cabello2014}
-                 
-? 
-! Undefined control sequence.
-l.11 \APACinsertmetastar
-                         {%
-? 
-
-! LaTeX Error: Environment APACrefauthors undefined.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.13 \begin{APACrefauthors}
-                           %
-? 
-! Undefined control sequence.
-l.14 Cabello, A\BPBI
-                     L\BPBI C.%
-? 
-! Undefined control sequence.
-l.14 Cabello, A\BPBI L\BPBI
-                            C.%
-? 
-
-! LaTeX Error: \begin{thebibliography} on input line 1 ended by \end{APACrefaut
-hors}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.15 \end{APACrefauthors}
-                         %
-? 
-! Undefined control sequence.
-l.18 \APACrefYear
-                 {2014}.
-? 
-! Undefined control sequence.
-l.20 \APACrefbtitle
-                    {Implantacion de aplicaciones web en entornos internet, ...
-
-? 
-! Undefined control sequence.
-l.22   y extranet}\ (I.~Editorial, \BED
-                                       {}).
-? 
-! Undefined control sequence.
-l.24 \APACaddressPublisher
-                          {}{IC Editorial}.
-? 
-! Undefined control sequence.
-l.25 \PrintBackRefs
-                   {\CurrentBib}
-? 
-! Undefined control sequence.
-l.25 \PrintBackRefs{\CurrentBib
-                               }
-? 
-! Undefined control sequence.
-<argument> \protect \citeauthoryear 
-                                    {Institute}{Institute}{{\protect \APACye...
-l.34 Institute2009}
-                   
-? 
-! Undefined control sequence.
-<argument> ...ute}{Institute}{{\protect \APACyear 
-                                                  {2009}}}
-l.34 Institute2009}
-                   
-? 
-! Undefined control sequence.
-l.35 \APACinsertmetastar
-                         {%
-? 
-
-! LaTeX Error: Environment APACrefauthors undefined.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.37 \begin{APACrefauthors}
-                           %
-? 
-
-! LaTeX Error: \begin{thebibliography} on input line 1 ended by \end{APACrefaut
-hors}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.39 \end{APACrefauthors}
-                         %
-? 
-! Undefined control sequence.
-l.42 \APACrefYearMonthDay
-                         {2009}{}{}.
-? 
-! Undefined control sequence.
-l.44 {\BBOQ
-           }\APACrefatitle {ISO - Online Browsing Platform} {Iso - online br...
-
-? 
-! Undefined control sequence.
-l.44 {\BBOQ}\APACrefatitle
-                           {ISO - Online Browsing Platform} {Iso - online br...
-
-? 
-! Undefined control sequence.
-l.45   platform}.{\BBCQ
-                       }
-? 
-! Undefined control sequence.
-l.47 \APACjournalVolNumPages
-                            {ISO/Guide}{}{}{}.
-? 
-! Undefined control sequence.
-l.48 \PrintBackRefs
-                   {\CurrentBib}
-? 
-! Undefined control sequence.
-l.48 \PrintBackRefs{\CurrentBib
-                               }
-? 
-! Undefined control sequence.
-<argument> \protect \citeauthoryear 
-                                    {SCP}{SCP}{{\protect \APACyear {2018}}}
-l.57 Grupo2018}
-               
-? 
-! Undefined control sequence.
-<argument> ...year {SCP}{SCP}{{\protect \APACyear 
-                                                  {2018}}}
-l.57 Grupo2018}
-               
-? 
-! Undefined control sequence.
-l.58 \APACinsertmetastar
-                         {%
-? 
-
-! LaTeX Error: Environment APACrefauthors undefined.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.60 \begin{APACrefauthors}
-                           %
-? 
-
-! LaTeX Error: \begin{thebibliography} on input line 1 ended by \end{APACrefaut
-hors}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.62 \end{APACrefauthors}
-                         %
-? 
-! Undefined control sequence.
-l.65 \APACrefYearMonthDay
-                         {2018}{}{}.
-? 
-! Undefined control sequence.
-l.67 {\BBOQ
-           }\APACrefatitle {ISO 31000:2018 – Proceso para la gestión de r...
-
-? 
-! Undefined control sequence.
-l.67 {\BBOQ}\APACrefatitle
-                           {ISO 31000:2018 – Proceso para la gestión de r...
-
-? 
-! Undefined control sequence.
-l.68 ...roceso para la gestión de riesgos}.{\BBCQ
-                                                  }
-? 
-! Undefined control sequence.
-l.70 \APACjournalVolNumPages
-                            {SCP Magazine}{}{}{}.
-? 
-! Undefined control sequence.
-l.71 \PrintBackRefs
-                   {\CurrentBib}
-? 
-! Undefined control sequence.
-l.71 \PrintBackRefs{\CurrentBib
-                               }
-? 
-) [5] (./M6_Chicala_Arroyave_Jorge.aux
+(./M6_Chicala_Arroyave_Jorge.bbl) [4] (./M6_Chicala_Arroyave_Jorge.aux
 LaTeX Info: Redefining \. on input line 7.
 LaTeX Info: Redefining \% on input line 7.
 ) ) 
 Here is how much of TeX's memory you used:
- 2246 strings out of 483121
- 32174 string characters out of 5964354
- 274660 words of memory out of 5000000
- 17283 multiletter control sequences out of 15000+600000
- 535098 words of font info for 33 fonts, out of 8000000 for 9000
+ 2692 strings out of 483121
+ 37834 string characters out of 5964354
+ 284284 words of memory out of 5000000
+ 17721 multiletter control sequences out of 15000+600000
+ 535445 words of font info for 34 fonts, out of 8000000 for 9000
  40 hyphenation exceptions out of 8191
  30i,6n,35p,220b,361s stack positions out of 5000i,500n,10000p,200000b,80000s
  </home/jchicala/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1200
 .600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 ></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/
-share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on M6_Chicala_Arroyave_Jorge.pdf (5 pages, 124400 bytes).
+share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/t
+exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on M6_Chicala_Arroyave_Jorge.pdf (4 pages, 136571 bytes).
 PDF statistics:
- 39 PDF objects out of 1000 (max. 8388607)
- 25 compressed objects within 1 object stream
+ 40 PDF objects out of 1000 (max. 8388607)
+ 26 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
