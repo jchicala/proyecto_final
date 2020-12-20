@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.11.6)  19 DEC 2020 20:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.11.6)  20 DEC 2020 17:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -94,10 +94,20 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@everytoks=\toks19
 \@floatcapt=\box46
 )
+(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
+Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
+\col@sep=\dimen138
+\ar@mcellbox=\box47
+\extrarowheight=\dimen139
+\NC@list=\toks20
+\extratabsurround=\skip54
+\backup@length=\skip55
+\ar@cellbox=\box48
+)
 (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
 File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
 \l__kernel_color_stack_int=\count180
-\l__pdf_internal_box=\box47
+\l__pdf_internal_box=\box49
 )
 (./M6_Chicala_Arroyave_Jorge.aux
 LaTeX Info: Redefining \. on input line 7.
@@ -105,20 +115,20 @@ LaTeX Info: Redefining \% on input line 7.
 )
 \openout1 = `M6_Chicala_Arroyave_Jorge.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
 \c@maskedRefs=\count181
 
 (/usr/share/texlive/texmf-dist/tex/latex/apacite/spanish.apc
@@ -126,22 +136,22 @@ File: spanish.apc 2013/07/21 v6.03 apacite language file
 LaTeX Info: Redefining \BPBI on input line 138.
 LaTeX Info: Redefining \BHBI on input line 139.
 )
-LaTeX Info: Redefining \. on input line 8.
-LaTeX Info: Redefining \% on input line 8.
+LaTeX Info: Redefining \. on input line 9.
+LaTeX Info: Redefining \% on input line 9.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count182
-\scratchdimen=\dimen138
-\scratchbox=\box48
+\scratchdimen=\dimen140
+\scratchbox=\box50
 \nofMPsegments=\count183
 \nofMParguments=\count184
-\everyMPshowfont=\toks20
+\everyMPshowfont=\toks21
 \MPscratchCnt=\count185
-\MPscratchDim=\dimen139
+\MPscratchDim=\dimen141
 \MPnumerator=\count186
 \makeMPintoPDFobject=\count187
-\everyMPtoPDFconversion=\toks21
+\everyMPtoPDFconversion=\toks22
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -152,16 +162,16 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 12.
+(Font)              <14.4> on input line 13.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 12.
+(Font)              <7> on input line 13.
 
-Underfull \hbox (badness 10000) in paragraph at lines 22--34
+Underfull \hbox (badness 10000) in paragraph at lines 23--35
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 38--55
+Underfull \hbox (badness 10000) in paragraph at lines 39--56
 
  []
 
@@ -171,81 +181,104 @@ Underfull \hbox (badness 10000) in paragraph at lines 38--55
 <img/Manejo_Riesgo_ISO-31000.png, id=9, 853.1875pt x 531.9875pt>
 File: img/Manejo_Riesgo_ISO-31000.png Graphic file (type png)
 <use img/Manejo_Riesgo_ISO-31000.png>
-Package pdftex.def Info: img/Manejo_Riesgo_ISO-31000.png  used on input line 68
+Package pdftex.def Info: img/Manejo_Riesgo_ISO-31000.png  used on input line 69
 .
 (pdftex.def)             Requested size: 284.52756pt x 177.41531pt.
  [2 <./img/Manejo_Riesgo_ISO-31000.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 89--91
+Underfull \hbox (badness 10000) in paragraph at lines 90--92
+
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 97.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 97.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 97.
+
+Overfull \hbox (5.0858pt too wide) in paragraph at lines 97--102
+ [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 93--106
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 93--107
+Underfull \hbox (badness 10000) in paragraph at lines 109--126
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 93--107
+Underfull \hbox (badness 10000) in paragraph at lines 109--126
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 108--111
+Underfull \hbox (badness 10000) in paragraph at lines 109--126
+
+ []
+
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 127--130
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 111--114
+Underfull \hbox (badness 10000) in paragraph at lines 130--133
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 114--118
+Underfull \hbox (badness 10000) in paragraph at lines 133--137
 
  []
 
 
-Overfull \hbox (0.42233pt too wide) in paragraph at lines 120--134
+Overfull \hbox (0.42233pt too wide) in paragraph at lines 139--153
 \OT1/cmr/m/n/12 li-zar los usua-rios au-to-ri-za-dos de una em-pre-sa/organizac
 i^^Son/instituci^^Son/grupo
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 120--134
+Underfull \hbox (badness 10000) in paragraph at lines 139--153
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 120--134
+Underfull \hbox (badness 10000) in paragraph at lines 139--153
 
  []
 
-[3]
-Underfull \hbox (badness 10000) in paragraph at lines 140--142
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--161
 
  []
 
-(./M6_Chicala_Arroyave_Jorge.bbl) [4] (./M6_Chicala_Arroyave_Jorge.aux
+[4] (./M6_Chicala_Arroyave_Jorge.bbl) [5] (./M6_Chicala_Arroyave_Jorge.aux
 LaTeX Info: Redefining \. on input line 7.
 LaTeX Info: Redefining \% on input line 7.
 ) ) 
 Here is how much of TeX's memory you used:
- 2692 strings out of 483121
- 37834 string characters out of 5964354
- 284284 words of memory out of 5000000
- 17721 multiletter control sequences out of 15000+600000
- 535445 words of font info for 34 fonts, out of 8000000 for 9000
+ 2762 strings out of 483121
+ 38666 string characters out of 5964354
+ 285176 words of memory out of 5000000
+ 17782 multiletter control sequences out of 15000+600000
+ 537883 words of font info for 42 fonts, out of 8000000 for 9000
  40 hyphenation exceptions out of 8191
- 30i,6n,35p,220b,361s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 30i,11n,35p,220b,361s stack positions out of 5000i,500n,10000p,200000b,80000s
  </home/jchicala/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1200
 .600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
-></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/
-share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/t
-exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on M6_Chicala_Arroyave_Jorge.pdf (4 pages, 136571 bytes).
+></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr
+/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/
+texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on M6_Chicala_Arroyave_Jorge.pdf (5 pages, 155216 bytes).
 PDF statistics:
- 40 PDF objects out of 1000 (max. 8388607)
- 26 compressed objects within 1 object stream
+ 51 PDF objects out of 1000 (max. 8388607)
+ 34 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
